@@ -104,10 +104,10 @@
   color: var(--main-theme-color);
 }
 .quiz__choices input:checked + label i {
-  background-image: url('../images/circle-filled.svg');
+  background-image: url('./circle-filled.svg');
 }
 .quiz__choices label i {
-  background: url('../images/circle-outline.svg');
+  background: url('./circle-outline.svg');
   background-size: 40px;
   height: 40px;
   width: 40px;
